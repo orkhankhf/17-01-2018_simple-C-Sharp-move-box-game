@@ -1,0 +1,10 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\bin\Debug\move-box.exe.config
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\bin\Debug\move-box.exe
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\bin\Debug\move-box.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move-box.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move_box.Form1.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move_box.Properties.Resources.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move-box.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move-box.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move-box.exe
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\move-box\move-box\obj\Debug\move-box.pdb
